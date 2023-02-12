@@ -1,0 +1,1 @@
+const t="Peritia",e="Pericias Judiciais em Propriedade Intelectual",o="Rogério Ferreira da Cunha",i=10,r=[{title:"Currículo",route:"/curriculum"},{title:"Artigos",route:"/blog"},{title:"Sobre",route:"/about"},{title:"Contato",route:"/contact"}];export{o as a,e as b,r as n,i as p,t as s};
