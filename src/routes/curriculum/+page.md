@@ -1,8 +1,8 @@
 <svelte:head>
-	<title>About</title>
+	<title>Currículo</title>
 </svelte:head>
 
-# Experiência em Perícia
+# Currículo Resumido
 
 ## Atuação e conhecimento
 
@@ -27,7 +27,7 @@ Quanto aos assuntos contidos nas patentes, destacam-se: os mecanismos de funcion
 * Participou do XV Congresso Internacional de Propriedade Intelectual da Associação Paulista de Propriedade Intelectual – ASPI
 
 
-## Sobre o Profissional
+## Formação acadêmica
 
 * Diplomado em Patentes e Propriedades Industriais pela FGV-RJ em 2011.
 * Mestre em Ciência da Computação pela UFF em 2008.
