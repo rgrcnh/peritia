@@ -1,13 +1,13 @@
 # Bem-vindo ao site Peritia.eng.br
 
-## Serviços
+## Portfólio
 
 * Pericias Judiciais na área de Engenharia Elétrica, Eletrônica, Telecomunicações, Tecnologia da Informação, com especialização em Propriedade Intelectual, incluindo Patentes de Invenção e Modelos de Utilidade e Direitos Autorias em Software.
 
 * Consultoria em revisão e redação de patentes, durante o início e o decorrer do processo
 administrativo no INPI
 
-## Área de Atuação
+## Abrangência
 
 * Em propriedade Industrial, com maior foco em Patentes de Invenção e Modelos de Utilidade, com larga experiência na análise dos critérios de patenteabilidade, como novidade, atividade inventiva (ou ato inventivo) e aplicação industrial.
 
