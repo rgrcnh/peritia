@@ -10,8 +10,8 @@
 
 <h1>Contato</h1>
 
-<p> Rogério Ferreira da Cunha</p>
-<p>Email de contato: <bold>rogerio.cunha@gmail.com</bold></p>
+<p>Rogério Ferreira da Cunha</p>
+<p>Email de contato: <bold>jusperitia@gmail.com</bold></p>
 
 <a href=https://br.linkedin.com/in/rogerio-cunha-1131ba>Perfil no Linkedin</a>
 
