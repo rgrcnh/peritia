@@ -14,6 +14,7 @@
 <p>Email de contato: <bold>jusperitia@gmail.com</bold></p>
 
 <a href=https://br.linkedin.com/in/rogerio-cunha-1131ba>Perfil no Linkedin</a>
+<a href=https://wa.me/5521981257759>WhatsApp</a>
 
 
 <Callout>Informações Pessoais devem seguir o disposto na Lei de Geral de Proteção de Dados</Callout>
